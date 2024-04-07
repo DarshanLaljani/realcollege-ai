@@ -9,3 +9,4 @@ faiss-cpu
 langchain_google_genai
 google-api-python-client
 firebase_admin
+beautifulsoup4
