@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "realcollege-ai",
+  "private_key_id": "9ad92897d9923d96a99b3d5b6151a1fc4f47acd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCypmrRpr/QunGa\nnhYbq3E+mVVKGuWqF7b7KgN8jC+LLGPlJurRFT3lesL2n4hqk62SyE9dUF1Hb40i\njIkrNkr/Fm0OwlWpBPUZqU+HWsmdhZYQdAQZigM54L0BvFQNGdrFaEEpfslpssTX\nIv2kJJDJd6/QFul+/dUEEFgRfzjhpoc4+28d2yrFWlDYMjftfxreDTd/gdL3d/TK\n/U/cUltz3/YBXQIl/kGgEHkwZNaq2s8QMf30+br3yqj4MMhx2ykxKcZExPffOwYw\nFg1/4em3Ce1R+qZMTNsQu6ouTu0EyD13rVQwoLFVR9a8VN+TTeM2iCljN4hW8V3P\nXYPsdA3hAgMBAAECggEAHrwoxnbkqzlYUByAezQsoHNqy/wCpRe9YEqjHOtVRqFV\nclgWr+/ynSdYoWti4csUYptZpBkuYxra8iWxd6C4mFg4XQCsEg8LR+XsC8Jfy1zv\nK1d6WRZ4ZZ23hrPq1fIrxCiihUwNxMR/vu+DKZks26xer/MxKqrq2e8h56i2lYNx\nxsqf/XWPaT+h9rPmFq6mlScRwkyoJB4sYy0QeaEqoPLk51hxh1MzrYiWfy4giKN0\n8ekE7r3vBApbKQWi80wcEaodk6Kj+ij+GN7PKuZenoL7H/Rf6Ga1iufekQ02R/0r\nmU9OrtHoXzOmAxQDvR2HDLbHcFsNj93Bo7IPh9mjEQKBgQDw5MoRLL5Rs1dZiAVY\n28Teq8s1zGoPkZDMJbHq0xYf59GdBYMkrBAp4Y+H9rkGK5ogvB+b/82ynkchIy0i\nR54E7wodfceXng1NAhf8ATjk6xSsmDclFE6XYNXBsRW6cH6oxWENXtfPWWxVjwzG\nAzs0p5lvHSJNzZq1K2mbLxCGPQKBgQC92mTA6VXFxn5RbA9tdmKWYqxKjUeGWWKj\n7SspTk/1HP5YBlU5jPxZ+x7JlmJ19FfTsVKNAxIQQGqM6NFV0CqVT+bHDIIBWhBn\nvVT1u6gZR4c7b9MVZbUQfu/AXvw6ET78pvhhp20giKyLrD953/dXV7Hlrs91L4KJ\nRkFxIaDEdQKBgF0gld295nW/V22NYEPR8nIDCDRsKjSKmefSSs31fQAopqiFkQWE\nX1tRkCOIBk+UW6l8ENxGMEd1WRo+dxxhg310y/xKu/apa4rx3EPYVR5qozt2PRtg\nlmF/ViPjSfshslWcuMBqghPvBiqtesqyRRk+Edsa8EAT1FNlzRXpRAIhAoGAR7fZ\nebpraWPbUfzFMy+WfILX3O3TyB+6EHzGYjswH0MNncj+ptfoeEFR1wsVNMPR7ak9\nqwEu8K600XgdpBIYFAF0B1tlPQd9zQKLtqxmCu6nWj+a+KlMJegdv4jiNTlQlvao\nO5OYuMKIk9bEv9BoSjlZfY901SrWX+8HR6pRZgUCgYA2lgWdNnIfJ+jvvzVar5YG\naSjWxgFmOHgur/hwvdKSghHaix6WIOov8L1oavavbyrNVJN2p8tm8ENdBKX0Ay1y\nMHOAUbNhgtlgHE+4y/1ox+Zsq9LXZd62WJziyQ4tDQUUjPVGkGPkItplA11L6QLS\novl7OReNzHg6m48UJwXwBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vo670@realcollege-ai.iam.gserviceaccount.com",
+  "client_id": "111248249250170480285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vo670%40realcollege-ai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

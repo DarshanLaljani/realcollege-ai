@@ -1,0 +1,24 @@
+Question: who is darshan
+Answer: Darshan Laljani is a B.Tech student in Computer Science at Pandit Deendayal Energy University. He has a CPI of 9.78 and has worked on several projects, including a CPU/Disk Scheduler Simulator and Celeb.AI. He is also skilled in HTML, CSS, JavaScript, PHP, MySQL, Java, Scala, MERN stack, Bootstrap, Spring, and has a basic understanding of Operating System, Computer Network, Data Structures and Algorithms, Cloud Computing, Artificial Intelligence, Coding, Creativity, Public Speaking, Leadership, Verbal & Written Communication, UX / UI, Video Editing, and Content Creation.
+
+Question: who is darshan
+Answer: Darshan Laljani is a B.Tech student in Computer Science at Pandit Deendayal Energy University. He is a skilled programmer with experience in HTML, CSS, JavaScript, PHP, MySQL, Java, Scala, and MERN stack. He has also worked on projects involving operating systems, computer networks, data structures and algorithms, cloud computing, and artificial intelligence.
+
+Question: tell me about celebai
+Answer: Celeb.AI is a unique platform where users interact with AI bots inspired by popular entrepreneurs and celebrities. It was conceptualized, developed, and deployed from scratch by Darshan Laljani. The platform has attracted over 100 active users, demonstrating successful marketing and user engagement. It has generated 3000+ impressions on LinkedIn, showcasing effective platform promotion. Additionally, it has received 20+ positive user feedback, validating platform value and functionality.
+
+Question: who is darshan
+Answer: Darshan Laljani is a B.Tech student in Computer Science at Pandit Deendayal Energy University. He is a skilled programmer with experience in HTML, CSS, JavaScript, PHP, MySQL, Java, Scala, and MERN stack. He has also worked on projects involving Operating System, Computer Network, Data Structures and Algorithms, Cloud Computing, and Artificial Intelligence.
+
+Question: what is celebai
+Answer: Celeb.AI is a unique platform where users interact with AI bots inspired by popular entrepreneurs and celebrities.
+
+Question: what is celebai
+Answer: Celeb.AI is a unique platform where users interact with AI bots inspired by popular entrepreneurs and celebrities.
+
+Question: what is celebai
+Answer: Celeb.AI is a unique platform where users interact with AI bots inspired by popular entrepreneurs and celebrities.
+
+Question: who is darshan
+Answer: Darshan Laljani is a B.Tech student in Computer Science at Pandit Deendayal Energy University.
+
