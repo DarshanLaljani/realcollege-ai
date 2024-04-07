@@ -68,9 +68,9 @@ def user_input(user_question):
 
         
         # Appending the question and answer to a file
-        with open("qa_history.txt", "a") as f:
-            f.write(f"Question: {user_question}\n")
-            f.write(f"Answer: {response['output_text']}\n\n")
+        # with open("qa_history.txt", "a") as f:
+        #     f.write(f"Question: {user_question}\n")
+        #     f.write(f"Answer: {response['output_text']}\n\n")
             
 
         st.write("Reply: ", response["output_text"])
