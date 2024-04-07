@@ -12,7 +12,7 @@ def app():
     
     st.session_state.setdefault('username', "")
     st.session_state.setdefault('useremail', "")
-    st.toast("Login/Sign-up from Sidebar")
+    # st.toast("Login/Sign-up from Sidebar")
     def login_user():
         try:
             
