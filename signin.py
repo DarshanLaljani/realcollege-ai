@@ -22,8 +22,8 @@ def app():
             st.session_state.useremail = user.email
             st.session_state.is_signed_in = True
         except:
-            st.warning('Login Failed')
             st.warning('Sign-up from Sidebar')
+            
 
     def sign_out():
         st.session_state.is_signed_in = False
