@@ -77,7 +77,7 @@ def user_input(user_question):
         secret1 = st.popover("Secret 1")
         secret1.success("This website was created in Just 3 Days! ")
     except Exception as e:
-        st.error(f"Error occurred while processing user input: {e}")
+        st.error(f"Click On Submit and Process to Chat")
 
 
 def app():
