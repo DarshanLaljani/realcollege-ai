@@ -22,7 +22,7 @@ def app():
             st.session_state.useremail = user.email
             st.session_state.is_signed_in = True
         except:
-            st.warning('Sign-up from Sidebar')
+            st.warning('Sign-up First')
             
 
     def sign_out():
@@ -32,7 +32,7 @@ def app():
     st.session_state.setdefault('is_signed_in', False)
 
     if not st.session_state['is_signed_in']:
-        choice = st.sidebar.select_slider('Login/Signup', ['Login', 'Sign Up'])
+        choice = st.select_slider('Login/Signup', ['Login', 'Sign Up'])
         if choice == 'Login':
             st.title("Login")
             email = st.text_input('Email ')
